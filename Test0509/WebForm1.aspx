@@ -18,6 +18,8 @@
             15:33
             흠
             수정
+
+            Build $(WORKSPACE)/Test0509.sln 추가
         </div>
     </form>
 </body>
