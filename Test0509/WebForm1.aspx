@@ -21,6 +21,7 @@
 
             Build $(WORKSPACE)/Test0509.sln 추가
             {}
+            nuget restore
         </div>
     </form>
 </body>
